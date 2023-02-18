@@ -14,7 +14,7 @@ Weird symbols showed up and you know what that means? another obscure cipher wit
 
 I tried searching "ancient" in `decode.Fr` but got nothing, then I decided to reverse image search in google to see if it notices the symbols until I got a blog with a writeup for this cipher.
 
-I was a monk number system which was explained pretty well in here: (https://omniglot.com/language/numbers/cistercian-numbers.htm)[https://omniglot.com/language/numbers/cistercian-numbers.htm].
+I was a monk number system which was explained pretty well in here: [https://omniglot.com/language/numbers/cistercian-numbers.htm](https://omniglot.com/language/numbers/cistercian-numbers.htm).
 
 Deciphering the numbers one by one got me the following:
 
