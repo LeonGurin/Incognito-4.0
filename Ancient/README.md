@@ -2,7 +2,7 @@
 
 **100 points**
 
-*Given:* [challenge.png]()
+*Given:* [challenge.png](https://github.com/LeonGurin/Incognito-4.0/blob/main/Ancient/challenge.png)
 
 ___
 

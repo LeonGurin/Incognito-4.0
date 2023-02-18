@@ -2,8 +2,6 @@
 
 **439 points**
 
-*Given:* [chal.py]()
-
 ___
 
 The script we got encrypted a flag with a weird function that does weird things based on the index of the character that is being encrypted.
